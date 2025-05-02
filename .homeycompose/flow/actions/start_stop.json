@@ -15,7 +15,8 @@
           "title": {
             "en": "Stop",
             "nl": "Uitgeschakeld",
-            "de": "Deaktiviert"
+            "de": "Deaktiviert",
+            "sv": "Inaktiverad"
           }
         },
         {
@@ -23,7 +24,8 @@
           "title": {
             "en": "Start",
             "nl": "Ingeschakeld",
-            "de": "Aktiviert"
+            "de": "Aktiviert",
+            "sv": "Aktiverad"
           }
         }
       ]
